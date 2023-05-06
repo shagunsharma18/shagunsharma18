@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shagunsharma18
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning java,java script, DSA.
 - 📫 How to reach me shagunsharma1118@gmail.com (my mail id)
 
 <!---
