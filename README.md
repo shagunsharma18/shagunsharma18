@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shagunsharma18
-- 👀 I’m interested in coding 
+- Detail-oriented, organized and meticulous employee.
 - 🌱 I’m currently learning java,java script, DSA.
 - 📫 How to reach me shagunsharma1118@gmail.com (my mail id)
 
